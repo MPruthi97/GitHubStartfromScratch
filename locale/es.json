@@ -1,3 +1,6 @@
 {
-    "HomePage": "¡Soy GROOT!"
+    "HomePage": "¡Soy GROOT!",
+    "Body": "este es el cuerpo",
+    "Footer": "¡Esto es un pie de página!",
+    "local Ad": "Este es un anuncio local."
 }
