@@ -1,3 +1,5 @@
 {
-    "HomePage": "I am GROOT!"
+    "HomePage": "I am GROOT!",
+    "GameplayParents": "This is the parent",
+    "GameplayChild": "This is the child"
 }
